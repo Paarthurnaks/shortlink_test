@@ -2,6 +2,7 @@
 
 /**
  * Тестовое задание "Сократитель ссылок"
+ * Ссылка на тестовое задание https://docs.google.com/document/d/1wk3e5_Ggpe8blV5IZBFOmIIw-n5rWEe0oD1FMD-4vUI/edit
  */
 
 namespace App;
